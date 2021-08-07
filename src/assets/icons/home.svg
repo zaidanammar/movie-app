@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+	<defs>
+		<style>
+			.cls-1{fill:#fff;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:25px;}
+		</style>
+	</defs>
+	<title>
+		ICON
+	</title>
+	<g id="Artboard_2" data-name="Artboard 2">
+		<path class="cls-1" d="M974.7,437,590,54.13c-26.41-26.27-73.53-26.27-99.94,0L105.3,437c-14.89,14.81-23.09,33.79-23.09,53.43V981.93c0,35.15,32.9,63.64,73.48,63.64h231.9V827.66c0-48.45,45.34-87.72,101.28-87.72H594c55.94,0,101.28,39.27,101.28,87.72v217.91H924.31c40.58,0,73.48-28.49,73.48-63.64V490.38C997.79,470.74,989.59,451.76,974.7,437Z" />
+	</g>
+</svg>

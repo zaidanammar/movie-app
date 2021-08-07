@@ -1,0 +1,11 @@
+.contact-container {
+  padding: 15px;
+  border: none;
+  border-bottom: 2px solid rgb(233, 233, 233);
+  display: flex;
+  align-items: center;
+}
+
+.text-container {
+  padding-left: 15px;
+}
