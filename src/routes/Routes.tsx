@@ -30,10 +30,10 @@ const Routes = () => {
           <div className="w-5/6 h-full px-10">
             <ScrollToTop />
             <Switch>
-              <Route path="/movie" exact component={Movie} />
+              <Route path="/movie"  exact component={Movie} />
               <Route path="/movie/:id" exact component={MovieDetail} />
               <Route path="/whislist" exact component={Whislist} />
-              <Redirect from="/" to="/movie" exact />
+              <Redirect from="/" to={{pathname:"/movie", search: 's'}} exact />
             </Switch>
           </div>
         </div>
